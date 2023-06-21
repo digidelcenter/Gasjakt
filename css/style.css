@@ -1,0 +1,23 @@
+.btn-primary{
+	background-color: black;
+}
+
+#services{
+	background-color: rgb(0, 0, 0);
+	color: rgb(239, 131, 37);
+}
+
+p{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 22px;
+}
+
+#services img{
+	max-width: 100%;
+}
+
+header.masthead {
+    background-image: url("../img/Nils\ den\ riktiga.png");
+}
+
+
